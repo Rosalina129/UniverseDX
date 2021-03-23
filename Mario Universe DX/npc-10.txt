@@ -1,0 +1,6 @@
+gfxwidth=32
+frames=8
+framespeed=4
+framestyle=0
+width=32
+scripts=##Light

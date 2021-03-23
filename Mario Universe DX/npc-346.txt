@@ -1,0 +1,6 @@
+gfxwidth=42
+gfxheight=46
+frames=8
+framespeed=4
+width=42
+height=44

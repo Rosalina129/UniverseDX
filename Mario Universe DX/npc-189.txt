@@ -1,0 +1,5 @@
+gfxwidth=64
+gfxheight=64
+gfxsplitheight=1024
+frames=8
+framespeed=8

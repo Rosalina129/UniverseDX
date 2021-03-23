@@ -1,0 +1,7 @@
+gfxwidth=48
+gfxheight=64
+gfxoffsetx=-4
+gfxsplitheight=256
+frames=4
+width=38
+height=64

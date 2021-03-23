@@ -1,0 +1,7 @@
+gfxwidth=64
+gfxheight=64
+gfxsplitheight=256
+frames=4
+width=64
+height=64
+nogravity=1

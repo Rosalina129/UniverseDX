@@ -1,0 +1,4 @@
+gfxwidth=75
+gfxheight=50
+gfxsplitheight=50
+frames=1
